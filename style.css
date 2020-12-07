@@ -1,0 +1,43 @@
+h1{
+	color: white;
+	font-size: 400%;
+	text-align: center;
+	font-family: fantasy;
+	text-decoration: underline;
+}
+em{
+	color: blue;
+    text-decoration: line-through;
+    background-color: gray; 
+    text-align: center;
+    font-size: 200%;
+}
+strong{
+	margin-left: 5px;
+	font-size: 120%;
+}
+
+a{
+	background-color: white;
+	color: red;
+	font-family: Courier New;
+}
+img{
+	width: 25%;
+	height: 20%;
+	margin-left: 38%;
+	margin-top: 20px;
+}
+div{
+	background: linear-gradient(#e66465, #9198e5);
+	border-style: dashed;
+	border: 1px solid black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 30%;
+	margin-left: 30%; 
+	text-align: center;
+}
+body{
+	background-size: cover;
+}
